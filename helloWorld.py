@@ -9,3 +9,5 @@ def factorial(n):
         return 1
     else:
         return n * factorial(n-1)
+# Added constant for the value of pi
+PI = 3.14159
